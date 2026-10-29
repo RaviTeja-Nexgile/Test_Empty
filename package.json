@@ -1,0 +1,10 @@
+{
+  "name": "snack-shelf",
+  "version": "1.0.0",
+  "description": "A tiny Node module with a JSON list of office snacks",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  }
+}
